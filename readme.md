@@ -15,7 +15,7 @@ This project has two parts that demonstrate the importance and value of data vis
 ## Dataset
 
 > Dataset FordGoBike for the month of February 2019, The data contains approximately 1,860,000 individual trip records with 16 variables collected, After adding important variables to the exploratory analysis, we have 20 variables, You can view the dataset through this link:
-https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv​
+​https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv
 
 
 ## Summary of Findings
